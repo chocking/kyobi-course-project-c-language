@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1384145081 source:c:\users\administrator\desktop\ÌìÌì°®Ïô³ş½¡\main.cpp
+	<math.h>
+	"function.h"
+
+1384147374 c:\users\administrator\desktop\ÌìÌì°®Ïô³ş½¡\function.h
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1384145081 source:c:\users\administrator\desktop\201230690124Ïô³ş½¡+201230690112¼¾ÉºÉº+201230690101²ÌÃÎÔÆ\main.cpp
+	<math.h>
+	"function.h"
+
+1384147374 c:\users\administrator\desktop\201230690124Ïô³ş½¡+201230690112¼¾ÉºÉº+201230690101²ÌÃÎÔÆ\function.h
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1384145081 source:c:\users\administrator\desktop\¿ÎÉè\201230690124Ïô³ş½¡+201230690112¼¾ÉºÉº+201230690101²ÌÃÎÔÆ\main.cpp
+	<math.h>
+	"function.h"
+
+1384147374 c:\users\administrator\desktop\¿ÎÉè\201230690124Ïô³ş½¡+201230690112¼¾ÉºÉº+201230690101²ÌÃÎÔÆ\function.h
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
+1384145081 source:c:\users\administrator\desktop\pair match ¿ÎÉè\201230690124Ïô³ş½¡+201230690112¼¾ÉºÉº+201230690101²ÌÃÎÔÆ\main.cpp
+	<math.h>
+	"function.h"
+
+1384876197 c:\users\administrator\desktop\pair match ¿ÎÉè\201230690124Ïô³ş½¡+201230690112¼¾ÉºÉº+201230690101²ÌÃÎÔÆ\function.h
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+
