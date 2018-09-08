@@ -1,6 +1,6 @@
 # kyobi-course-project-c-language
 
-天天爱萧楚 。。呃，爱消除  的山寨版
+天天爱消除  的山寨版
 
 c语言写的交互和动画 自认为界面较良好
 
